@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.coolplaytree.sethgame",
+        "sha256_cert_fingerprints": ["12:09:3A:32:60:C2:4E:87:32:D3:02:B5:7A:69:B4:C7:B0:75:54:4C:E2:3E:74:34:42:2B:9A:EF:41:40:AA:6E"]
+      }
+    }]
